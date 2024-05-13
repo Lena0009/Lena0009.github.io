@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-My project (1)-1.0";
 const contentToCache = [
-    "Build/Prototype version 5.loader.js",
-    "Build/Prototype version 5.framework.js.br",
-    "Build/Prototype version 5.data.br",
-    "Build/Prototype version 5.wasm.br",
+    "Build/Prototype version 6.loader.js",
+    "Build/Prototype version 6.framework.js",
+    "Build/Prototype version 6.data",
+    "Build/Prototype version 6.wasm",
     "TemplateData/style.css"
 
 ];
